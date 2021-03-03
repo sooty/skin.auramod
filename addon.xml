@@ -2,6 +2,7 @@
 <addon id="skin.auramod" version="0.9.46" name="Aura[COLOR cyan]MOD[/COLOR]" provider-name="auramod,jurialmunkey,Cartmandos,marduklev,marcelveldt">
     <requires>
         <import addon="xbmc.gui" version="5.14.0"/>
+        <import addon="xbmc.gui" version="5.15.0"/>
         <import addon="repository.marcelveldt" version="1.0.2"/>
         <import addon="repository.jurialmunkey" version="1.2"/>
         <import addon="script.skin.helper.service" version="1.1.24"/>
